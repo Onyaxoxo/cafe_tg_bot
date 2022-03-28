@@ -1,0 +1,10 @@
+cenz.txt
+/venvtgbot
+/__pycache__
+to_json.py 
+workspace.code-workspace
+/data_base/__pycache__
+/keyboards/__pycache__
+/handlers/__pycache__
+Token.py
+cafe.db
